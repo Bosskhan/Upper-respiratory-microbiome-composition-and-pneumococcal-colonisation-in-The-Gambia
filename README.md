@@ -1,4 +1,4 @@
-# gambia-URT-microbiome-pneumococcal-colonisation
+# Gambia-URT-microbiome-pneumococcal-colonisation
 
 Upper respiratory tract bacterial microbiome features associated with
 Streptococcus pneumoniae colonisation and environmental factors among healthy
